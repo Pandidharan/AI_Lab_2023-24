@@ -13,20 +13,10 @@ To write a python program to implement Breadth first Search.
 7.   Call the bfs function by passing arguments visited, graph and starting node.
 8.   Stop the program.
 ### Program:
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/07dfbe9b-ad6b-46fb-82ad-bf31d5cecb44)
 ### Output:
 
-
+![image](https://github.com/user-attachments/assets/a69081ed-b84b-4bbe-bc72-a0542413f718)
 
 ### Result:
 Thus the breadth first search order was found sucessfully.
