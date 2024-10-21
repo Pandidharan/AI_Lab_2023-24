@@ -6,12 +6,18 @@
 To write a program to train a classifier for detecting cracks in railway tracks using supervised learning and transfer learning.
 
 ### Algorithm:
-Load and preprocess the dataset (defective and non-defective images).
-Apply data augmentation to increase the dataset size.
-Create a CNN model using transfer learning (VGG16) and fine-tune the last few layers.
-Train the model using K-Fold cross-validation.
-Evaluate the model's performance on each fold.
-Use the trained model to predict whether an input image is defective or non-defective.
+
+1. Load and preprocess the dataset (defective and non-defective images).
+
+2. Apply data augmentation to increase the dataset size.
+
+3. Create a CNN model using transfer learning (VGG16) and fine-tune the last few layers.
+
+4. Train the model using K-Fold cross-validation.
+
+5. Evaluate the model's performance on each fold.
+
+6. Use the trained model to predict whether an input image is defective or non-defective.
 
 ### Program:
 
