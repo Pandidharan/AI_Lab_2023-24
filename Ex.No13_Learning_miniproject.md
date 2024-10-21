@@ -157,6 +157,7 @@ def identify_crack(image_path, model_path):
 
 ### Output:
 
+![image](https://github.com/user-attachments/assets/919b1a49-b7a6-459d-a6bd-cbf515ca4f6c)
 
 
 ### Result:
